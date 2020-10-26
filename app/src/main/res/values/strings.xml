@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_Calculator</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="bs">BS</string>
+    <string name="ce">CE</string>
+    <string name="x">x</string>
+</resources>
